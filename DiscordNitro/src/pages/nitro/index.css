@@ -1,0 +1,109 @@
+@import url(../../common/index.css);
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.mae {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.title {
+    display: flex;
+    font: 40px 'discord2';
+    height: 15vh;
+}
+
+.meio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    height: 70vh;
+    width: 100vw;
+
+}
+
+.pt1, .pt2 {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    width: 70vw;
+    height: 70vh;
+}
+
+
+.um , .dois, .tres, .quatro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    background-color: rgb(228, 228, 228);
+    height: 35vh;
+    width: 25vw;
+}
+
+
+.p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15vw;
+    text-align: center;
+}
+
+.img  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+img { 
+    height: 18vh;
+}
+
+.p1,.p2,.p3,.p {
+    font: 20px 'discord5';
+    text-align: center;
+    width: 17vw;
+    line-height: 30px;
+    text-align: center;
+    height: 11vh;
+}
+
+
+.fim {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 20vh;
+}
+
+button {
+    height: 45px;
+    width: 250px;
+    margin-top: 50px;
+    background-color: #23272a;
+    border-radius: 40px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.b {
+    font: 17px 'discord6';
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,38 @@
+* {      
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'disc1';
+    src: url(../../src/assets/fonts/disc1.woff2);
+}
+
+@font-face {
+    font-family: 'disc2';
+    src: url(../../src/assets/fonts/disc2.woff2);
+}
+
+
+@font-face {
+    font-family: 'disc3';
+    src: url(../../src/assets/fonts/disc3.woff2);
+}
+
+
+@font-face {
+    font-family: 'disc4';
+    src: url(../../src/assets/fonts/disc4.woff2);
+}
+
+
+@font-face {
+    font-family: 'disc5';
+    src: url(../../src/assets/fonts/disc5.woff2);
+}
+
+
+@font-face {
+    font-family: 'disc6';
+    src: url(../../src/assets/fonts/disc6.woff2);
+}
